@@ -7,7 +7,7 @@ Automatic proxysetter for Netease-musicbox
 
 2.打开 ~/.bashrc 文件。
 
-3.在alias位置加入一行： alias proxysetter=‘python3 path/to/unzipped/location/proxysetter.py'
+3.在alias位置加入一行： alias proxysetter=‘python3 The Path to Unzipped Location/proxysetter.py'
 
 4.退出，并执行. ~/.bashrc
 
